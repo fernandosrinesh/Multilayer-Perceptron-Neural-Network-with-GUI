@@ -7,4 +7,4 @@ put no of layers and neurons on each layer you want below it has shown that 3 hi
 
 ![This is an image](https://github.com/fernandosrinesh/Multilayer-Perceptron-Neural-Network-with-GUI/blob/main/GUI%20screenshots.JPG)
 
-#Note: This has been built for according to academic perposes and requements.
+#Note: This has been built based on the  academic perposes and requements.
